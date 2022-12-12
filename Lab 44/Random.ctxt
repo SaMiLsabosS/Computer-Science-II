@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Random()
+comment1.params=min\ max
+comment1.target=Random(int,\ int)
+comment2.params=min\ max
+comment2.target=void\ setRange(int,\ int)
+comment3.params=
+comment3.target=int\ getRandom()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

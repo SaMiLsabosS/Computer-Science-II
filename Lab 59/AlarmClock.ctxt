@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AlarmClock()
+comment1.params=cT\ aT\ aS
+comment1.target=AlarmClock(java.lang.String,\ java.lang.String,\ boolean)
+comment10.params=
+comment10.target=void\ snooze()
+comment2.params=cT
+comment2.target=void\ setcurrentTime(java.lang.String)
+comment3.params=aT
+comment3.target=void\ setalarmTime(java.lang.String)
+comment4.params=aS
+comment4.target=void\ setalarmSet(boolean)
+comment5.params=
+comment5.target=java.lang.String\ getcurrentTime()
+comment6.params=
+comment6.target=java.lang.String\ getalarmTime()
+comment7.params=
+comment7.target=boolean\ getalarmSet()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=aT\ aS
+comment9.target=void\ setAlarm(java.lang.String,\ boolean)
+numComments=11

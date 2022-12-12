@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Doughnut()
+comment1.params=f\ w\ c
+comment1.target=Doughnut(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getFlavor()
+comment3.params=
+comment3.target=int\ getWeight()
+comment4.params=
+comment4.target=boolean\ getCreme()
+comment5.params=
+comment5.target=java.lang.String\ eat()
+numComments=6

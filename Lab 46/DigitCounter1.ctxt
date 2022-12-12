@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DigitCounter1()
+comment1.params=num
+comment1.target=void\ setNumbers(int)
+comment2.params=
+comment2.target=int\ countDigits()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

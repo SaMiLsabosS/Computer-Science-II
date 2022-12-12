@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TurkeyFarm()
+comment1.params=name
+comment1.target=void\ addTurkey(java.lang.String)
+comment2.params=turkeyNum
+comment2.target=void\ removeTurkey(int)
+comment3.params=turkeyNum
+comment3.target=Turkey\ getTurkey(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ getTurkeys()
+numComments=6

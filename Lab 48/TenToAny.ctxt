@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TenToAny()
+comment1.params=num\ base
+comment1.target=TenToAny(int,\ int)
+comment2.params=num\ base
+comment2.target=void\ setNewNum(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getNewNum()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

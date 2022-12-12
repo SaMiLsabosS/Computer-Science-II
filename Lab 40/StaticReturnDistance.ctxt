@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=arqs
+comment0.target=void\ main(java.lang.String[])
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=double\ calcDistance(double,\ double,\ double,\ double)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=int\ countEm(int[])
+comment1.params=array
+comment1.target=int[]\ getAllEvens(int[])
+comment2.params=array
+comment2.target=int[]\ getAllOdds(int[])
+numComments=3
